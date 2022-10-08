@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1658950004 source:c:\users\ahmed\desktop\lord\main.cpp
+	<iostream>
+
+1658950680 source:c:\users\ahmed\desktop\lord\landlord.cpp
+	"landlord.h"
+
+1658949115 c:\users\ahmed\desktop\lord\landlord.h
+	<iostream>
+	<vector>
+	<set>
+	<string>
+	<algorithm>
+	<numeric>
+
+1658950337 source:c:\users\ahmed\desktop\lord\lordapp.cpp
+	"landlord.h"
+

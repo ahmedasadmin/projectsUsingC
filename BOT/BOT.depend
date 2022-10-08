@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633545613 source:c:\users\ahmed\desktop\bot\main.cpp
+	<graphics.h>
+	<iostream>
+	<string>
+

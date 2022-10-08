@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633559876 source:c:\users\ahmed\desktop\graph_3\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<string>
+	<string.h>
+	<windows.h>
+

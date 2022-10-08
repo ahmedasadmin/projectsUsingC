@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633522069 source:c:\users\ahmed\desktop\analogclock\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
